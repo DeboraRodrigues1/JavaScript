@@ -1,0 +1,43 @@
+<!-- 17. Faça um programa que leia o salário de uma pessoa e calcule o imposto devido,
+segundo as regras:
+a. se o salário é menor que $1000, então a pessoa está isenta de impostos
+b. se o salário está entre $1000 e $2500, desconte 12,5% do salário
+c. se o salário está entre $2500 e $5000, desconte 25% do salário
+d. se o salário for maior que $5000, desconte um valor fixo de $1300.-->
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="Exemplo.css">
+
+    <title> .: Exemplo :.</title>
+
+<body>
+
+    <div class="container" id=inicio>
+        <div class="row">
+            <div class="col-md-12">
+                <input type="text" id="salario">
+                <button id="corbo" onclick="totalizarEExibir()"> CALCULAR </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" >
+        <div class="col-MD-12" id="resultado">
+            Valor do importo devido: <br />
+            Valor do salario total: <br />
+        </div>
+    </div>
+
+
+
+    <script src="Exemplo.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</body>
+
+</html>

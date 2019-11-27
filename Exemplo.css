@@ -1,0 +1,19 @@
+#inicio{
+    background-color: rgb(165, 165, 165);
+    justify-content: center;
+}
+#corbo{
+    background-color: rgb(153, 139, 241);
+    margin: 10px;
+    border-radius: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+#resultado{
+    background-color: beige;
+    text-align: center;
+    font-size: 15px;
+}
+
