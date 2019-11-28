@@ -1,0 +1,25 @@
+#jogodavelha{ 
+    background-color: rgb(196, 190, 184);
+    justify-content: center;
+    width:603px; 
+    height:500px; 
+    border:solid 3px 
+
+} 
+.linha{
+    height:166px; 
+    border-bottom:solid 1px; 
+
+} 
+.casa{ 
+    width:200px; 
+    height:100%; 
+    border-right:solid 1px; 
+    float:left; 
+}
+.nome{
+    display: flex;
+    justify-content: center;
+}
+
+
