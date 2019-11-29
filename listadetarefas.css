@@ -1,0 +1,15 @@
+#inicio{
+    background-color: rgb(107, 102, 95);
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.lista{
+    margin: 3px;
+  
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+  
+}
