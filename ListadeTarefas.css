@@ -1,0 +1,51 @@
+#titulo{
+    background-color: rgb(187, 153, 201);
+    color: rgba(22, 13, 13, 0.76);
+    margin-top: 9px;
+    padding-top: 9px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    text-align: center;
+    border-top-left-radius: px;
+    border-top-right-radius: px;
+}
+
+.itemtarefa{
+    color: black;
+    width: 90%;
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    background-color: rgb(190, 172, 196);
+    box-shadow: 2px 2px 5px black;
+    text-align: center;
+}
+h3{
+    text-align: center;
+
+}
+.btn{
+    width: 200px;
+    
+    
+}
+
+#novatarefa{
+    padding-top: 15px;
+    height: 80px;
+    background-color: rgba(97, 109, 102, 0.5); ;
+    justify-content: center;
+    ;
+}
+
+.coluna{
+    background-color: rgba(97, 109, 102, 0.5);
+    border: 1px solid black;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+}
+#tarefas{
+    height: 70%;
+}
